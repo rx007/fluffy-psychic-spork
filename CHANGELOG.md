@@ -2,7 +2,7 @@
 
 This file is used to list changes made in each version of the fluffy-psychic-spork cookbook.
 
-## 0.1.0
+## 1.0.0
 - [your_name] - Initial release of fluffy-psychic-spork
 
 - - -
